@@ -1,0 +1,35 @@
+/* Variablen */
+:root {
+  --bg: #3d444d;
+}
+
+/* Main content */
+body {
+  background-color: var(--bg);
+  margin: 0;
+  padding: 0;
+}
+
+.main-content {
+  background-color: var(--bg);
+  margin-top: 0;
+}
+
+.left-column {
+  background-color: var(--bg);
+}
+
+.middle-column {
+  background-color: var(--bg);
+}
+
+.right-column {
+  background-color: var(--bg);
+}
+
+/* Rechte Spalte */
+
+#test {
+  height: 200px;
+  width: 200px;
+}
