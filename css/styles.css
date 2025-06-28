@@ -3,14 +3,22 @@
   --bg: #3d444d;
 }
 
-/* Main content */
-body {
-  background-color: var(--bg);
+/* Basis für Sticky Footer */
+html, body {
+  height: 100%;
   margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg);
   padding: 0;
 }
 
+/* Main content */
 .main-content {
+  flex: 1;
   background-color: var(--bg);
   margin-top: 0;
 }
@@ -28,7 +36,6 @@ body {
 }
 
 /* Rechte Spalte */
-
 #test {
   height: 200px;
   width: 200px;
