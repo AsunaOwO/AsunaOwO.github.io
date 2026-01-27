@@ -1,0 +1,10 @@
+So like this is for commenting the shit i did or didnt.
+
+commit: Refactor resource paths and implement login functionality with validation
+
+Like hear me out i know, i know the last commit was also refactoring sources BUT HEAR ME THE FUCK OUT 
+I am coding in VS code and i was using the liveServer extension and it was ruined so i was refactoring the links and it did work
+but then i saw that it doesnt work in git so i did my best to repair it. I need to think of another solution but thats for future Asuna.
+
+Ohh yeah and the Password thingy is yeah... I know its open source and shit but its for the little troubles... Like if someone just comes to the 
+site randomly and starts sniffing around.

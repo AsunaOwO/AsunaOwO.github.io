@@ -1,6 +1,6 @@
-const apiKey = 'LIVDSRZULELA'; // Ersetze dies durch deinen API-Schlüssel
+const apiKey = 'LIVDSRZULELA';
         const searchTerm = 'Asuna';
-        const limit = 20; // Setze das Limit höher, wenn die API dies erlaubt
+        const limit = 20; 
         let gifs = [];
         let count = 0;
 
@@ -60,5 +60,4 @@ const apiKey = 'LIVDSRZULELA'; // Ersetze dies durch deinen API-Schlüssel
 
         let timer;
 
-        // Lade die GIFs beim Start der Seite
         fetchGifs();
